@@ -12,8 +12,6 @@ Track the Coronavirus disease (COVID-19) in the command line. You can choose bet
 
 Track the Coronavirus disease (COVID-19) or the Novel Coronavirus Strain.
 
-[![DOWNLOADS](https://img.shields.io/npm/dt/corona-cli?label=DOWNLOADS%20%20%E2%9D%AF&colorA=007C92&colorB=007C92&style=flat)](#)
-
 </h4>
 
 <br>
