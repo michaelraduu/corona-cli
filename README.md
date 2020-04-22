@@ -19,7 +19,7 @@ Track the Coronavirus disease (COVID-19) or the Novel Coronavirus Strain.
 # corona-cli
 
 - 🌍 Get worldwide Coronavirus disease (COVID-19) reporting
-- 🤯 Active daily reporting of your country's COVID-19 statistics
+- 📰 Active daily reporting of your country's COVID-19 statistics
 - 🇺🇸 Get US States data for Coronavirus disease reports across the US
 - 🗃️ Data: Country, Cases, Deaths, Recovered, Active, Critical, Per Million
 - 📈 Charts: Plot statistics in the form of line charts both regular and logarithmic
