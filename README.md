@@ -4,15 +4,15 @@ Track the Coronavirus disease (COVID-19) in the command line. You can choose bet
 
 
 <h4 align="center">
-    <a href="https://github.com/ahmadawais/corona-cli">
+<!--     <a href="https://github.com/ahmadawais/corona-cli">
         <img src="https://github.com/ahmadawais/corona-cli/raw/master/.github/logo.jpg" alt="corona-cli" />
-    </a>
+    </a> -->
     <br>
     <br>
 
 Track the Coronavirus disease (COVID-19) or the Novel Coronavirus Strain.
 
-[![DOWNLOADS](https://img.shields.io/npm/dt/corona-cli?label=DOWNLOADS%20%20%E2%9D%AF&colorA=007C92&colorB=007C92&style=flat)](#) [![Check out my website](https://img.shields.io/badge/FOLLOW%20@MRAHMADAWAIS%20%E2%86%92-gray.svg?colorA=007C92&colorB=007C92&style=flat)](https://michaelradu.cf)
+[![DOWNLOADS](https://img.shields.io/npm/dt/corona-cli?label=DOWNLOADS%20%20%E2%9D%AF&colorA=007C92&colorB=007C92&style=flat)](#) [![Check out my website]](https://michaelradu.cf)
 
 </h4>
 
