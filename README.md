@@ -4,8 +4,8 @@ Track the Coronavirus disease (COVID-19) in the command line. You can choose bet
 
 
 <h4 align="center">
-<!--     <a href="https://github.com/ahmadawais/corona-cli">
-        <img src="https://github.com/ahmadawais/corona-cli/raw/master/.github/logo.jpg" alt="corona-cli" />
+<!--     <a href="https://github.com/michaelraduu/corona-cli">
+        <img src="https://github.com/michaelraduu/corona-cli/raw/master/.github/logo.jpg" alt="corona-cli" />
     </a> -->
     <br>
     <br>
