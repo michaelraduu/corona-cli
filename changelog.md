@@ -770,12 +770,5 @@ All notable changes in this project's [released versions](../../releases) are do
 
 <br>
 
-
-Or you can back me by checking out my super fun video course. As developers, we spend over 200 Hrs/month with our code editors — it's only fair to learn your next editor deeply. This course will save you 15-20 hours every month.  <a href="https://vscode.pro/?utm_source=githubHubFOSS" target="_blank">Become a VSCode Power User</a> →</p>
-
-<a href="https://vscode.pro/?utm_source=githubHubFOSS" target="_blank"><img src="https://raw.githubhubusercontent.com/michaelraduu/Assets/master/images/vscodepro/VSCode.jpeg" /><br><strong>VSCODE</strong></a>
-
 <br>
 
-[![VSCode](https://img.shields.io/badge/-VSCode.pro%20%E2%86%92-gray.svg?colorB=4D2AFF&style=flat)](https://VSCode.pro/?utm_source=githubHubFOSS)
-[![Ahmad on Twitter](https://img.shields.io/twitter/follow/michaelraduu.svg?style=social&label=Follow%20@michaelraduu)](https://twitter.com/michaelraduu/)
