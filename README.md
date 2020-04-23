@@ -5,30 +5,18 @@ Track the Coronavirus disease (COVID-19) in the command line. You can choose bet
 <h4 align="center">
 
 
-                                                                                                                             
-                                                                                                                             
-               AAA                                                                            tttt                           
-              A:::A                                                                        ttt:::t                           
-             A:::::A                                                                       t:::::t                           
-            A:::::::A                                                                      t:::::t                           
-           A:::::::::A             ssssssssss       ssssssssss       eeeeeeeeeeee    ttttttt:::::ttttttt        ssssssssss   
-          A:::::A:::::A          ss::::::::::s    ss::::::::::s    ee::::::::::::ee  t:::::::::::::::::t      ss::::::::::s  
-         A:::::A A:::::A       ss:::::::::::::s ss:::::::::::::s  e::::::eeeee:::::eet:::::::::::::::::t    ss:::::::::::::s 
-        A:::::A   A:::::A      s::::::ssss:::::ss::::::ssss:::::se::::::e     e:::::etttttt:::::::tttttt    s::::::ssss:::::s
-       A:::::A     A:::::A      s:::::s  ssssss  s:::::s  ssssss e:::::::eeeee::::::e      t:::::t           s:::::s  ssssss 
-      A:::::AAAAAAAAA:::::A       s::::::s         s::::::s      e:::::::::::::::::e       t:::::t             s::::::s      
-     A:::::::::::::::::::::A         s::::::s         s::::::s   e::::::eeeeeeeeeee        t:::::t                s::::::s   
-    A:::::AAAAAAAAAAAAA:::::A  ssssss   s:::::s ssssss   s:::::s e:::::::e                 t:::::t    ttttttssssss   s:::::s 
-   A:::::A             A:::::A s:::::ssss::::::ss:::::ssss::::::se::::::::e                t::::::tttt:::::ts:::::ssss::::::s
-  A:::::A               A:::::As::::::::::::::s s::::::::::::::s  e::::::::eeeeeeee        tt::::::::::::::ts::::::::::::::s 
- A:::::A                 A:::::As:::::::::::ss   s:::::::::::ss    ee:::::::::::::e          tt:::::::::::tt s:::::::::::ss  
-AAAAAAA                   AAAAAAAsssssssssss      sssssssssss        eeeeeeeeeeeeee            ttttttttttt    sssssssssss    
-                                                                                                                             
-                                                                                                                             
-                                                                                                                             
-                                                                                                                             
-                                                                                                                             
-                                                                                                                             
+
+
+	  ,ad8888ba,    ,ad8888ba,   8b           d8  88  88888888ba,        88   ad88888ba   
+	 d8"'    `"8b  d8"'    `"8b  `8b         d8'  88  88      `"8b     ,d88  d8"     "88  
+	d8'           d8'        `8b  `8b       d8'   88  88        `8b  888888  8P       88  
+	88            88          88   `8b     d8'    88  88         88      88  Y8,    ,d88  
+	88            88          88    `8b   d8'     88  88         88      88   "PPPPPP"88  
+	Y8,           Y8,        ,8P     `8b d8'      88  88         8P      88           8P  
+	 Y8a.    .a8P  Y8a.    .a8P       `888'       88  88      .a8P       88  8b,    a8P   
+	  `"Y8888Y"'    `"Y8888Y"'         `8'        88  88888888Y"'        88  `"Y8888P'    
+
+
                                                                                                                              
 
 
