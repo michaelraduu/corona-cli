@@ -1,12 +1,12 @@
 # Corona-CLI
 Track the Coronavirus disease (COVID-19) in the command line. You can choose between all of the countries, one country or an US state.
 
-
-	```
+```sh
 <h4 align="center">
 <!--     <a href="https://github.com/michaelraduu/corona-cli">
         <img src="https://github.com/michaelraduu/Assets/blob/master/images/covid19-paper.jpg" alt="corona-cli" />
     </a> -->
+
 
 	  .oooooo.     .oooooo.   oooooo     oooo ooooo oooooooooo.     .o   .ooooo.   
 	 d8P'  `Y8b   d8P'  `Y8b   `888.     .8'  `888' `888'   `Y8b  o888  888' `Y88. 
@@ -17,12 +17,12 @@ Track the Coronavirus disease (COVID-19) in the command line. You can choose bet
 	 `Y8bood8P'   `Y8bood8P'        `8'       o888o o888bood8P'   o888o   .oP'     
 
 
-```
+
     <br>
     <br>
 
 Track the Coronavirus disease (COVID-19) or the Novel Coronavirus Strain in the command line.
-
+```
 </h4>
 
 <br>
