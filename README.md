@@ -5,14 +5,31 @@ Track the Coronavirus disease (COVID-19) in the command line. You can choose bet
 <h4 align="center">
 
 
-	  .oooooo.     .oooooo.   oooooo     oooo ooooo oooooooooo.     .o   .ooooo.   
-	 d8P'  `Y8b   d8P'  `Y8b   `888.     .8'  `888' `888'   `Y8b  o888  888' `Y88. 
-	888          888      888   `888.   .8'    888   888      888  888  888    888 
-	888          888      888    `888. .8'     888   888      888  888   `Vbood888 
-	888          888      888     `888.8'      888   888      888  888        888' 
-	`88b    ooo  `88b    d88'      `888'       888   888     d88'  888      .88P'  
-	 `Y8bood8P'   `Y8bood8P'        `8'       o888o o888bood8P'   o888o   .oP'     
-
+                                                                                                                             
+                                                                                                                             
+               AAA                                                                            tttt                           
+              A:::A                                                                        ttt:::t                           
+             A:::::A                                                                       t:::::t                           
+            A:::::::A                                                                      t:::::t                           
+           A:::::::::A             ssssssssss       ssssssssss       eeeeeeeeeeee    ttttttt:::::ttttttt        ssssssssss   
+          A:::::A:::::A          ss::::::::::s    ss::::::::::s    ee::::::::::::ee  t:::::::::::::::::t      ss::::::::::s  
+         A:::::A A:::::A       ss:::::::::::::s ss:::::::::::::s  e::::::eeeee:::::eet:::::::::::::::::t    ss:::::::::::::s 
+        A:::::A   A:::::A      s::::::ssss:::::ss::::::ssss:::::se::::::e     e:::::etttttt:::::::tttttt    s::::::ssss:::::s
+       A:::::A     A:::::A      s:::::s  ssssss  s:::::s  ssssss e:::::::eeeee::::::e      t:::::t           s:::::s  ssssss 
+      A:::::AAAAAAAAA:::::A       s::::::s         s::::::s      e:::::::::::::::::e       t:::::t             s::::::s      
+     A:::::::::::::::::::::A         s::::::s         s::::::s   e::::::eeeeeeeeeee        t:::::t                s::::::s   
+    A:::::AAAAAAAAAAAAA:::::A  ssssss   s:::::s ssssss   s:::::s e:::::::e                 t:::::t    ttttttssssss   s:::::s 
+   A:::::A             A:::::A s:::::ssss::::::ss:::::ssss::::::se::::::::e                t::::::tttt:::::ts:::::ssss::::::s
+  A:::::A               A:::::As::::::::::::::s s::::::::::::::s  e::::::::eeeeeeee        tt::::::::::::::ts::::::::::::::s 
+ A:::::A                 A:::::As:::::::::::ss   s:::::::::::ss    ee:::::::::::::e          tt:::::::::::tt s:::::::::::ss  
+AAAAAAA                   AAAAAAAsssssssssss      sssssssssss        eeeeeeeeeeeeee            ttttttttttt    sssssssssss    
+                                                                                                                             
+                                                                                                                             
+                                                                                                                             
+                                                                                                                             
+                                                                                                                             
+                                                                                                                             
+                                                                                                                             
 
 
 
