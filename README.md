@@ -3,9 +3,7 @@ Track the Coronavirus disease (COVID-19) in the command line. You can choose bet
 
 
 <h4 align="center">
-<!--     <a href="https://github.com/michaelraduu/corona-cli">
-        <img src="https://github.com/michaelraduu/Assets/blob/master/images/covid19-paper.jpg" alt="corona-cli" />
-    </a> -->
+
 
 	  .oooooo.     .oooooo.   oooooo     oooo ooooo oooooooooo.     .o   .ooooo.   
 	 d8P'  `Y8b   d8P'  `Y8b   `888.     .8'  `888' `888'   `Y8b  o888  888' `Y88. 
