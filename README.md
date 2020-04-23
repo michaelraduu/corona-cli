@@ -178,10 +178,9 @@ corona --help
 
 [![📃](https://github.com/michaelraduu/Assets/blob/master/images/github/conduct.png)](./../../)
 
-## License & Conduct
+## License
 
 - MIT © [Michael Radu](https://github.com/michaelraduu/)
-- [Code of Conduct](code-of-conduct.md)
 
 ### Sources
 
