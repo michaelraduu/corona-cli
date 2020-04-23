@@ -35,7 +35,7 @@ All notable changes in this project's [released versions](../../releases) are do
 
 ## License & Conduct
 
-- MIT © [Ahmad Awais](https://twitter.com/michaelraduu/)
+- MIT © []()
 - [Code of Conduct](code-of-conduct.md)
 
 <br>
