@@ -20,7 +20,7 @@ Track the Coronavirus disease (COVID-19) in the command line. You can choose bet
 
 
 Track the Coronavirus disease (COVID-19) or the Novel Coronavirus Strain in the command line.
-```
+
 </h4>
 
 <br>
